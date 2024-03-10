@@ -1,5 +1,5 @@
 ## Using
 ```
-$ chmod +x haffman.py
-$ ./haffman.py --help
+$ chmod +x lz78.py
+$ ./lz78.py --help
 ```
